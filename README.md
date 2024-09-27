@@ -12,14 +12,17 @@ J'aime l'informatique depuis mon plus jeune age. J'ai donc entamé un parcours d
 
 #### Langages de programmation :
 Grâce à mes projets, j’ai pu maîtriser plusieurs langages :
+
 ``bash, Python, C++, HTML / CSS / JavaScript / PHP, SQL, Bash, GraphQL, ExtendScript``
 
 #### Outils et logiciels :
 J'utilise régulièrement les outils suivants pour mes projets académiques et personnels :
+
 `` VsCode, Oracle, WampServer, Adobe After Effect / Photoshop, Marionnet``.
 
 #### Outils collaboratifs :
 J'ai également de l'expérience avec les outils collaboratifs pour le travail en équipe : 
+
 ``OneDrive, Teams, Trello, Figma, Git / GitHub``*
 
 
