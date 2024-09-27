@@ -18,7 +18,7 @@ Grâce à mes projets, j’ai pu maîtriser plusieurs langages :
 #### Outils et logiciels :
 J'utilise régulièrement les outils suivants pour mes projets académiques et personnels :
 
-`` VsCode, Oracle, WampServer, Adobe After Effect / Photoshop, Marionnet``.
+`` VsCode, Oracle, WampServer, Qt Creator, Adobe After Effect / Photoshop, Marionnet``.
 
 #### Outils collaboratifs :
 J'ai également de l'expérience avec les outils collaboratifs pour le travail en équipe : 
