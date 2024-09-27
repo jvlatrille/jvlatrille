@@ -29,6 +29,7 @@ J'ai également de l'expérience avec les outils collaboratifs pour le travail e
 
 ### 📄 Mon CV pour en savoir plus : 
 [Télécharger mon CV (pdf)](./CV.pdf)
+
 [Mon site Portfolio (lien)](https://jvlatrille.github.io/vitrine/)
 
 ![Mon logo](./pfp%20Soul%20Eater%20fond%20noir.png)
