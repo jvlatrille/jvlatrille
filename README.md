@@ -24,7 +24,7 @@ J'utilise régulièrement les outils suivants pour mes projets académiques et p
 #### Outils collaboratifs :
 J'ai également de l'expérience avec les outils collaboratifs pour le travail en équipe : 
 
-``OneDrive, Teams, Trello, Figma, Git / GitHub``*
+``OneDrive, Teams, Trello, Figma, Git / GitHub``
 
 
 ### 📄 Mon CV pour en savoir plus : 
