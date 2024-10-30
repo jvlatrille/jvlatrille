@@ -2,7 +2,7 @@
 
 
 #### Moi c'est Jules !
-Étudiant en **2ème année de BUT Informatique**, passionné par le monde du numérique depuis tout petit.
+Étudiant en **2ème année de BUT Informatique**.
 
 
 ### 🧑‍💻 À propos de moi
