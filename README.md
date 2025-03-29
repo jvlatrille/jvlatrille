@@ -43,9 +43,9 @@ J'utilise régulièrement les outils suivants :
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/WAMP_server_logo.svg" alt="WampServer" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" alt="WampServer" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt Creator" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Adobe_After_Effects_CC_icon.svg" alt="Adobe After Effects" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" alt="Adobe After Effects" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40" />
   <!-- Pour Marionnet, le logo officiel n'est pas disponible -->
 </div>
@@ -54,8 +54,8 @@ J'utilise régulièrement les outils suivants :
 Pour le travail en équipe et la gestion de projets, je fais confiance à :
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg" alt="OneDrive" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Teams_logo_%282019%29.svg" alt="Teams" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg.png" alt="OneDrive" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/800px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" alt="Teams" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
@@ -77,7 +77,7 @@ Pour le travail en équipe et la gestion de projets, je fais confiance à :
 
 ### 🔗 Liens utiles
 - [Télécharger mon CV (pdf)](./CV.pdf)
-- [Mon site Portfolio](https://jvlatrille.github.io/vitrine/)
+- [Mon site Portfolio](https://lord404.alwaysdata.net/)
 - [GitHub](https://github.com/jvlatrille)
 - [LinkedIn](https://www.linkedin.com/in/julesvinetlatrille/)
 
