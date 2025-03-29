@@ -4,6 +4,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="Build Status"></a>
+  <a href="#"><img src="https://img.shields.io/badge/downloads-1234-blue.svg" alt="Downloads"></a>
+  <a href="#"><img src="https://img.shields.io/badge/version-1.0.0-orange.svg" alt="Version"></a>
+  <a href="#"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
+</p>
+
 ## Salut 👋
 
 #### Moi c'est Jules !
@@ -17,23 +24,43 @@ Passionné par l'informatique depuis mon plus jeune âge, j'ai naturellement sui
 #### Langages de programmation
 Grâce à mes projets académiques et personnels, j’ai pu maîtriser plusieurs langages :
 
-```bash
-Python, C++, HTML / CSS / JavaScript / PHP, SQL, Bash, GraphQL, ExtendScript
-```
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL / MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" />
+  <!-- ExtendScript n'a pas de logo officiel -->
+</div>
 
 #### Outils et logiciels
 J'utilise régulièrement les outils suivants :
 
-```bash
-VsCode, Oracle, WampServer, Qt Creator, Adobe After Effects / Photoshop, Marionnet
-```
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/WAMP_server_logo.svg" alt="WampServer" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt Creator" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Adobe_After_Effects_CC_icon.svg" alt="Adobe After Effects" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop" width="40" height="40" />
+  <!-- Pour Marionnet, le logo officiel n'est pas disponible -->
+</div>
 
 #### Outils collaboratifs
 Pour le travail en équipe et la gestion de projets, je fais confiance à :
 
-```bash
-OneDrive, Teams, Trello, Figma, Git / GitHub
-```
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg" alt="OneDrive" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Teams_logo_%282019%29.svg" alt="Teams" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+</div>
 
 ### 🎓 Formation & Expériences
 - **Formation :**
@@ -64,4 +91,4 @@ OneDrive, Teams, Trello, Figma, Git / GitHub
 
 <!-- N'hésitez pas à consulter mes projets et à me contacter pour toute collaboration ou question ! -->
 
-### 🚀 Projets a la une :
+### 🚀 Projets à la une :
