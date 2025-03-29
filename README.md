@@ -4,49 +4,64 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="Build Status"></a>
-  <a href="#"><img src="https://img.shields.io/badge/downloads-1234-blue.svg" alt="Downloads"></a>
-  <a href="#"><img src="https://img.shields.io/badge/version-1.0.0-orange.svg" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
-</p>
-
 ## Salut 👋
 
 #### Moi c'est Jules !
 Étudiant en **2ème année de BUT Informatique**.
 
 ### 🧑‍💻 À propos de moi
-J'aime l'informatique depuis mon plus jeune âge. J'ai donc entamé un parcours dans cette voie pour me retrouver ici. Durant mon parcours, j'ai acquis de nombreuses compétences :
+Passionné par l'informatique depuis mon plus jeune âge, j'ai naturellement suivi un parcours dans ce domaine. Mes expériences et formations m'ont permis d'acquérir de solides compétences techniques et de développer une approche rigoureuse et créative.
 
 ### 🛠️ Compétences techniques
 
-#### Langages de programmation :
-Grâce à mes projets, j’ai pu maîtriser plusieurs langages :
+#### Langages de programmation
+Grâce à mes projets académiques et personnels, j’ai pu maîtriser plusieurs langages :
 
 ```bash
 Python, C++, HTML / CSS / JavaScript / PHP, SQL, Bash, GraphQL, ExtendScript
 ```
 
-#### Outils et logiciels :
-J'utilise régulièrement les outils suivants pour mes projets académiques et personnels :
+#### Outils et logiciels
+J'utilise régulièrement les outils suivants :
 
 ```bash
 VsCode, Oracle, WampServer, Qt Creator, Adobe After Effects / Photoshop, Marionnet
 ```
 
-#### Outils collaboratifs :
-J'ai également de l'expérience avec les outils collaboratifs pour le travail en équipe :
+#### Outils collaboratifs
+Pour le travail en équipe et la gestion de projets, je fais confiance à :
 
 ```bash
 OneDrive, Teams, Trello, Figma, Git / GitHub
 ```
 
-### 📄 Mon CV pour en savoir plus
+### 🎓 Formation & Expériences
+- **Formation :**
+  - *BUT Informatique* – IUT de Bayonne et du Pays Basque (2023)
+  - *BAC Général* – Lycée René Cassin (spécialités Maths et NSI, Mention Bien, 2023)
+
+- **Expériences professionnelles :**
+  - **Préparateur de commandes** – L’Orangerie PrimEurs, Anglet (07/2024 – 09/2024)  
+    Développement de compétences en rigueur, discipline et gestion des délais.
+  - **Stage d’observation** – Nobatek, Anglet (2020)  
+    Découverte de la transition énergétique et application de la modélisation 3D.
+  - **Stage d’informatique** – Compositadour, Bayonne (04/2025 – 06/2025) *(en cours)*  
+    Travail sur SQL, ADO/DAO, PLSQL et GraphQL pour des projets d'entreprise.
+
+### 🔗 Liens utiles
 - [Télécharger mon CV (pdf)](./CV.pdf)
-- [Mon site Portfolio (lien)](https://jvlatrille.github.io/vitrine/)
+- [Mon site Portfolio](https://jvlatrille.github.io/vitrine/)
+- [GitHub](https://github.com/jvlatrille)
+- [LinkedIn](https://www.linkedin.com/in/julesvinetlatrille/)
 
-![Mon logo](./pfp%20Soul%20Eater%20fond%20noir.png)
+### 🎯 Loisirs et centres d'intérêt
+- BMX race
+- Musique
+- Montage photo et vidéo
+- Modélisation 3D
+- Codage
+- Travail associatif
 
-### 🚀 Projets récents :
-<!-- Ajoutez ici la liste de vos projets récents -->
+<!-- N'hésitez pas à consulter mes projets et à me contacter pour toute collaboration ou question ! -->
+
+### 🚀 Projets a la une :
