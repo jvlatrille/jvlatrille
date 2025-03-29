@@ -4,13 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="Build Status"></a>
-  <a href="#"><img src="https://img.shields.io/badge/downloads-1234-blue.svg" alt="Downloads"></a>
-  <a href="#"><img src="https://img.shields.io/badge/version-1.0.0-orange.svg" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
-</p>
-
 ## Salut 👋
 
 #### Moi c'est Jules !
